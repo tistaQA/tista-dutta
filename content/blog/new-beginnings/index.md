@@ -1,6 +1,6 @@
 ---
 title: Tista Dutta
-date: "2021-12-31T22:40:32.169Z"
+date: "2021-12-28T22:40:32.169Z"
 description: Tista Dutta is a B.Tech student at Supreme knowledge Foundation Group of Institutions. This is a custom description for SEO and Open Graph purposes, rather than the default generated excerpt. Simply add a description field to the frontmatter.
 ---
 
